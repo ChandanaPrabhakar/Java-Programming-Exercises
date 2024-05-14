@@ -40,10 +40,6 @@ Each directory in this repository represents a specific topic in Java programmin
 For each exercise:
 - Read the `README.md` file in the exercise directory for a description of the task.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Special thanks to all the contributors who have helped in building and maintaining this set of Java exercises.
