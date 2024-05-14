@@ -18,9 +18,6 @@ To get started with these exercises, you will need the following:
    - [Eclipse](https://www.eclipse.org/downloads/)
    - [Visual Studio Code](https://code.visualstudio.com/download)
 3. Clone this repository to your local machine:
-   ```
-   git clone https://github.com/yourusername/java-exercises.git
-   ```
 4. Open the cloned repository in your chosen IDE and begin working on the exercises.
 
 ## Exercises
@@ -42,17 +39,6 @@ Each directory in this repository represents a specific topic in Java programmin
 
 For each exercise:
 - Read the `README.md` file in the exercise directory for a description of the task.
-- Use the provided template Java file to implement your solution.
-- Run the included tests to check your solution's correctness.
-
-## Contribution Guidelines
-
-Interested in contributing? Great! We welcome contributions from anyone. Please follow these guidelines:
-1. Fork the repository and create your branch from `master`.
-2. Add comprehensive tests for new features.
-3. Ensure your code adheres to the existing style to maintain the project's consistency.
-4. Update the documentation accordingly.
-5. Submit a pull request.
 
 ## License
 
