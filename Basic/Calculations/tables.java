@@ -1,4 +1,5 @@
-import java.util.*;
+package Basic.Calculations;
+import java.util.Scanner;
 
 
 public class tables {

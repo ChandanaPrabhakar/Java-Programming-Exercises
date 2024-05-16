@@ -1,3 +1,5 @@
+package Basic.Calculations;
+
 import java.util.*;
 
 public class Calc{
