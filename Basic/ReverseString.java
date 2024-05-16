@@ -1,4 +1,4 @@
-package Basic.Variables;
+package Basic;
 
 import java.util.*;
 
