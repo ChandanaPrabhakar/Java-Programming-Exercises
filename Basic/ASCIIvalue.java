@@ -10,4 +10,4 @@ public class ASCIIvalue {
         in.close();
     }
     
-}
+}                                      
