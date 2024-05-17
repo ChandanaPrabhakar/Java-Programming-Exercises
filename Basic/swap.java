@@ -13,6 +13,6 @@ public class swap {
         a = b;
         b = temp;
         System.out.println("After swapping a: "+a+" and b: "+b);
-
+        in.close();
     }
 }

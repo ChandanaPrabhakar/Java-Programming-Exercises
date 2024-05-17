@@ -14,5 +14,6 @@ public class CompareIntegers {
         else{
             System.out.println(b+" > "+a);
         }
+        in.close();
     }
 }

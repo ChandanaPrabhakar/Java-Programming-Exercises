@@ -7,6 +7,7 @@ public class ASCIIvalue {
         char ch = in.next().charAt(0);
         int c = ch;
         System.out.println("The ASCII value of "+ch+" is: "+c);
+        in.close();
     }
     
 }

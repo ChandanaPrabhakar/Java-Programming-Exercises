@@ -14,5 +14,6 @@ public class Calc{
         System.out.println(a +" x "+b+" = "+ (a*b));
         System.out.println(a +" / "+b+" = "+ (a/b));
         System.out.println(a +" mod "+b+" = "+ (a%b));
+        in.close();
     }
 }

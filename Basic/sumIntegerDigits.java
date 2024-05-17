@@ -14,5 +14,6 @@ public class sumIntegerDigits {
             a = a/10;
         }
         System.out.println("The sum of digits in the integer is: "+sum);
+        in.close();
     }
 }
